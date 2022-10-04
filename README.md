@@ -6,7 +6,13 @@
 
 <p align="left">
 
-<a href="https://twitter.com/Killercavin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Killercavin" height="30" width="40" />
+<a href="https://wa.me/+254798941735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Killercavin" height="30" width="40" />
+   <a ref="https://twitter.com/Killercavin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Killercavin" height="30" width="40" />
+       <a href="https://github.com/Killercavin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Killercavin" height="30" width="40" />
+          <a href="https://instagram.com/killer_cavin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Killercavin" height="30" width="40" />
+             <a href="https://reddit.com/u/Killercavin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Killercavin" height="30" width="40" />
+                <a href="https://pinterest.com/Killercavin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="Killercavin" height="30" width="40" />
+
 
 </a>
 
