@@ -1,6 +1,6 @@
 <!-- Killercavin -->
 
-[![Cavin](https://img.shields.io/badge/Cavin-<COLOR>.svg)](https://shields.io/) ![Profile Views](https://komarev.com/ghpvc/?username=Killercavin&color=green) ![Followers](https://img.shields.io/github/followers/Killercavin) ![Stars](https://img.shields.io/github/stars/Killercavi?label=Profile%20Stars&logo=Profile%20stars&logoColor=g)
+[![Cavin](https://img.shields.io/badge/Cavin-<COLOR>.svg)](https://shields.io/) ![Profile Views](https://komarev.com/ghpvc/?username=Killercavin&color=green) ![Followers](https://img.shields.io/github/followers/Killercavin) ![Stars](https://img.shields.io/github/stars/Killercavin?label=Profile%20Stars&logo=Profile%20stars&logoColor=g)
 
 ## Connect with me:
 
