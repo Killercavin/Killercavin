@@ -2,6 +2,8 @@
 
 [![Cavin](https://img.shields.io/badge/Cavin-<COLOR>.svg)](https://shields.io/) ![Profile Views](https://komarev.com/ghpvc/?username=Killercavin&color=green) ![Followers](https://img.shields.io/github/followers/Killercavin) ![Stars](https://img.shields.io/github/stars/Killercavin?label=Profile%20Stars&logo=Profile%20stars&logoColor=g)
 
+<img align="center" height="auto" src="https://i.postimg.cc/MHq646WW/anime-boy.gif" />
+
 ## Connect with me on:
 
 <p align="left">
