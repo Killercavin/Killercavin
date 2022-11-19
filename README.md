@@ -44,15 +44,15 @@
 
 <br>
 
-<img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=Killercavin&theme=tokyonight&hide_border=false">
+<img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=Killercavin&theme=merko&hide_border=false">
 
 <br>
 
-<img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killercavin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killercavin&theme=dark&hide_border=false&include_all_commit&truecount_private=true&layout=compact">
 
 <br>
 
-<img alt="" src="https://github-profile-trophy.vercel.app/?username=Killercavin&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy">
+<img alt="" src="https://github-profile-trophy.vercel.app/?username=Killercavin&theme=radical&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy">
 <!-- Killercavin -->
 
 
