@@ -21,7 +21,8 @@
                                <a href="https://t.me/Killercavin" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-64.png" alt="Killercavin" height="30" width="40">
                                   <a href="https://www.linkedin.com/in/Killercavin" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Linkedin-64.png" alt="Killercavin" height="30" width="40">
                                      <a href="https://stackoverflow.com/users/19831837/killercavin" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-rounded/72/stackoverflow-64.png" alt="Killercavin" height="30" width="40">
-
+                                     <a href="https://www.twitch.tv/killercavin" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/28-twitch-64.png" alt="Killercavin" height="30" width="40">
+                                        
 </a>
 
 </p>
@@ -32,7 +33,7 @@
 
 <a href="https://skillicons.dev">
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,html,css,python"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,linux,html,css,python"/>
 
 </a>
 
