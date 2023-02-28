@@ -10,7 +10,6 @@
 <a href="https://wa.me/+254798941735" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/whatsapp_logo-64.png" alt="Killercavin" height="30" width="40">
    <a href="https://twitter.com/Killercavin" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" alt="Killercavin" height="30" width="40">
        <a href="https://github.com/Killercavin" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/512/github-square-512.png" alt="Killercavin" height="30" width="40">
-       <a href="https://gitlab.com/Killercavin" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-256.png" alt="Killercavin" height="30" width="40">
           <a href="https://instagram.com/Kill3rcavin" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="Killercavin" height="30" width="40">
              <a href="https://facebook.com/Kill3rcavin" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" alt="Killercavin" height="30" width="40">
                 <a href="https://reddit.com/u/Killercavin" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Reddit3_colored_svg-64.png" alt="Killercavin" height="30" width="40">
@@ -33,7 +32,7 @@
 
 <a href="https://skillicons.dev">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,linux,html,css,python"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,html,css,python"/>
 
 </a>
 
