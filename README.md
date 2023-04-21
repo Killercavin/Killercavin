@@ -17,10 +17,11 @@
                       <a href="https://discordapp.com/users/1296" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/discord-64.png" alt="Killercavin" height="30" width="40">
                          <a href="https://www.youtube.com/channel/UCWjk1I5qrELwNtrvttIJKUw" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-64.png" alt="Killercavin" height="30" width="40">
                             <a href="mailto:cavinlarry001@gmail.com" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-64.png" alt="Killercavin" height="30" width="40">
-                               <a href="https://t.me/Killercavin" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-64.png" alt="Killercavin" height="30" width="40">
-                                  <a href="https://www.linkedin.com/in/Killercavin" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Linkedin-64.png" alt="Killercavin" height="30" width="40">
-                                     <a href="https://stackoverflow.com/users/19831837/killercavin" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-rounded/72/stackoverflow-64.png" alt="Killercavin" height="30" width="40">
-                                     <a href="https://www.twitch.tv/killercavin" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/28-twitch-64.png" alt="Killercavin" height="30" width="40">
+                               <a href="mailto:cavinlarry@outlook.com" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-64.png" alt="Killercavin" height="30" width="40">
+                                  <a href="https://t.me/Killercavin" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-64.png" alt="Killercavin" height="30" width="40">
+                                     <a href="https://www.linkedin.com/in/Killercavin" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Linkedin-64.png" alt="Killercavin" height="30" width="40">
+                                        <a href="https://stackoverflow.com/users/19831837/killercavin" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-rounded/72/stackoverflow-64.png" alt="Killercavin" height="30" width="40">
+                                           <a href="https://www.twitch.tv/killercavin" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/28-twitch-64.png" alt="Killercavin" height="30" width="40">
                                         
 </a>
 
