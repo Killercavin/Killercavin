@@ -53,6 +53,12 @@
 
 <br>
 
+## Latest Tweet
+
+[![](https://gtce.itsvg.in/api?username=Killercavin&theme=tokyo-night)](https://github.com/Killercavin/github-twitter-card-embeded)
+
+<br>
+
 <img alt="" src="https://github-profile-trophy.vercel.app/?username=Killercavin&theme=radical&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy">
 <!-- Killercavin -->
 
