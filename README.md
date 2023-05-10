@@ -1,80 +1,40 @@
-<!-- Killercavin -->
-[![Cavin](https://img.shields.io/badge/Cavin-<COLOR>.svg)](https://shields.io/) ![Profile Views](https://komarev.com/ghpvc/?username=Killercavin&color=green) ![Followers](https://img.shields.io/github/followers/Killercavin) ![Stars](https://img.shields.io/github/stars/Killercavin?label=Profile%20Stars&logo=Profile%20stars&logoColor=g)
+<!-- Killercavin@CalaTech -->
+# Killercavin - CalaTech
 
-<img align="center" height="auto" src="https://i.postimg.cc/MHq646WW/anime-boy.gif">
+## Welcome to my GitHub Profile
 
-## Connect with me on:
+[![Cavin](https://img.shields.io/badge/Cavin-<COLOR>.svg)](https://shields.io/)
+![Followers](https://img.shields.io/github/followers/Killercavin?label=Follow&style=social)
+![Stars](https://img.shields.io/github/stars/Killercavin?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Killercavin&color=blue)
+[![Discord](https://img.shields.io/discord/950481728068263976?color=blueviolet&logo=Discord&style=plastic)](https://discord.gg/GnrKuFSaUC)
 
-<p align="left">
+## About Me
 
-<a href="https://wa.me/+254798941735" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/whatsapp_logo-64.png" alt="Killercavin" height="30" width="40">
-   <a href="https://twitter.com/Killercavin" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" alt="Killercavin" height="30" width="40">
-       <a href="https://github.com/Killercavin" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/512/github-square-512.png" alt="Killercavin" height="30" width="40">
-          <a href="https://instagram.com/Kill3rcavin" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="Killercavin" height="30" width="40">
-             <a href="https://facebook.com/Kill3rcavin" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" alt="Killercavin" height="30" width="40">
-                <a href="https://reddit.com/u/Killercavin" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Reddit3_colored_svg-64.png" alt="Killercavin" height="30" width="40">
-                   <a href="https://pinterest.com/Killercavin" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Pinterest-64.png" alt="Killercavin" height="30" width="40">
-                      <a href="https://discordapp.com/users/1296" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/discord-64.png" alt="Killercavin" height="30" width="40">
-                         <a href="https://www.youtube.com/channel/UCWjk1I5qrELwNtrvttIJKUw" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-64.png" alt="Killercavin" height="30" width="40">
-                            <a href="mailto:cavinlarry001@gmail.com" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-64.png" alt="Killercavin" height="30" width="40">
-                               <a href="mailto:cavinlarry@outlook.com" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-64.png" alt="Killercavin" height="30" width="40">
-                                  <a href="https://t.me/Killercavin" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-64.png" alt="Killercavin" height="30" width="40">
-                                     <a href="https://www.linkedin.com/in/Killercavin" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Linkedin-64.png" alt="Killercavin" height="30" width="40">
-                                        <a href="https://stackoverflow.com/users/19831837/killercavin" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-rounded/72/stackoverflow-64.png" alt="Killercavin" height="30" width="40">
-                                           <a href="https://www.twitch.tv/killercavin" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/28-twitch-64.png" alt="Killercavin" height="30" width="40">
-                                        
-</a>
+- 👋 Hi, I’m @Killercavin
+- 👀 I’m an Entry-Level Developer and a Technology Enthusiast
+- 🌱 I’m currently learning HTML, CSS and Python
+- 💞️ I’m looking to collaborate on anything that I can help with
+- 📫 How to reach me: Discord: [#1296](https://discordapp.com/users/1296)
 
-</p>
+## Development Tools, Skills & Languages
 
-## Development Tools & Skills:
+![Skill icons](https://skillicons.dev/icons?i=vscode,git,github,linux,html,css,python)
 
-<p>
+## Stats
 
-<a href="https://skillicons.dev">
+![Killercavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killercavin&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,html,css,python"/>
+## Streak Stats
 
-</a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Killercavin&theme=merko&hide_border=true)
 
-</p>
+## Top Languages
 
-<p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killercavin&layout=compact&theme=radical)
 
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=Killercavin&show_icons=true&theme=tokyonight">
+## Trophies
 
-<br>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Killercavin&theme=light&row=1&column=7)
 
-<img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=Killercavin&theme=merko&hide_border=false">
-
-<br>
-
-<img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killercavin&theme=dark&hide_border=false&include_all_commit&truecount_private=true&layout=compact">
-
-<br>
-
-## Latest Tweet
-
-[![](https://gtce.itsvg.in/api?username=Killercavin&theme=tokyo-night)](https://github.com/Killercavin/github-twitter-card-embeded)
-
-<br>
-
-<img alt="" src="https://github-profile-trophy.vercel.app/?username=Killercavin&theme=radical&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy">
-<!-- Killercavin -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- End -->
