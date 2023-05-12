@@ -1,6 +1,8 @@
 <!-- Killercavin@CalaTech -->
 # Killercavin - CalaTech
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&width=900&height=50&lines=Hello+🤝%2C+I'm+Killercavin!+Welcome+to+my+Profile!;I+am+a+Tech+Enthusiast+👨‍💻+🧑‍💻+💻+🖥️;Learning+HTML%2C+CSS+and+Python!;)](https://git.io/typing-svg)
+
 ## Welcome to my GitHub Profile
 
 [![Cavin](https://img.shields.io/badge/Cavin-<COLOR>.svg)](https://shields.io/)
