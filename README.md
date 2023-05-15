@@ -19,7 +19,7 @@
 - 💞️ I’m looking to collaborate on anything that I can help with
 - 📫 How to reach me: Discord: [#1296](https://discordapp.com/users/1296)
 
-## Development Tools, Server, Host, Database, & Languages
+## Development Tools, Server, Host, Database & Languages
 
 ![Skill icons](https://skillicons.dev/icons?i=vscode,git,github,linux,html,css,python)
 
