@@ -41,8 +41,12 @@
 
 ### Wakatime Stats
 
+<!-- ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Killercavin) -->
+
 ```text
-No Activity tracked this Week
+No Activity tracked recently...
+Workatime updating soon...
+
 ```
 
 ### Latest Tweet
@@ -52,4 +56,5 @@ No Activity tracked this Week
 ### Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Killercavin&theme=github-compact)
+
 <!-- End -->
