@@ -1,7 +1,7 @@
 <!-- Killercavin@CalaTech -->
 # Killercavin - CalaTech
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&color=1B961A&size=30&center=true&vCenter=true&width=900&height=50&lines=Konnichiwa+👋%2C+I'm+Killercavin!...+Welcome+to+my+Profile!;I+am+a+Tech+Enthusiast+👨‍💻+🧑‍💻+💻+🖥️;Learning+HTML%2C+CSS+and+Python!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&color=1B961A&size=30&center=true&vCenter=true&width=900&height=50&lines=Konnichiwa+👋%2C+I'm+Killercavin!...+Welcome+to+my+Profile!;I+am+a+Tech+Enthusiast+👨‍💻+🧑‍💻+💻+🖥️;Learning+HTML%2C+CSS+and+Python!;Thank+You+For+Visiting...;)](https://git.io/typing-svg)
 
 ## Welcome to my GitHub Profile
 
@@ -11,7 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Killercavin&color=blue)
 [![Discord](https://img.shields.io/discord/950481728068263976?color=blueviolet&logo=Discord&style=plastic)](https://discord.gg/GnrKuFSaUC)
 
-## About Me
+### About Me
 
 - 👋 Hi, I’m @Killercavin
 - 👀 I’m an Entry-Level Developer and a Technology Enthusiast
@@ -19,24 +19,37 @@
 - 💞️ I’m looking to collaborate on anything that I can help with
 - 📫 How to reach me: Discord: [#1296](https://discordapp.com/users/1296)
 
-## Development Tools, Server, Host, Database & Languages
+### Development Tools, Server, Host, Platform, Database & Languages
 
 ![Skill icons](https://skillicons.dev/icons?i=vscode,git,github,linux,html,css,python)
 
-## Stats
+### Stats
 
 ![Killercavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killercavin&show_icons=true&theme=tokyonight&hide_border=true)
 
-## Streak Stats
+### Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Killercavin&theme=merko&hide_border=true)
 
-## Top Languages
+### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killercavin&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killercavin&theme=radical&hide_border=true)
 
-## Trophies
+### Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Killercavin&theme=light&row=1&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Killercavin&&row=1&column=7)
 
+### Wakatime Stats
+
+```text
+No Activity tracked this Week
+```
+
+### Latest Tweet
+
+![Latest Tweet](https://gtce.itsvg.in/api?username=Killercavin&theme=midnight-purple&layout=compact)
+
+### Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Killercavin&theme=github-compact)
 <!-- End -->
