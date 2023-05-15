@@ -1,7 +1,7 @@
 <!-- Killercavin@CalaTech -->
 # Killercavin - CalaTech
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&width=900&height=50&lines=Hello+🤝%2C+I'm+Killercavin!+Welcome+to+my+Profile!;I+am+a+Tech+Enthusiast+👨‍💻+🧑‍💻+💻+🖥️;Learning+HTML%2C+CSS+and+Python!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&color=1B961A&size=30&center=true&vCenter=true&width=900&height=50&lines=Konnichiwa+👋%2C+I'm+Killercavin!...+Welcome+to+my+Profile!;I+am+a+Tech+Enthusiast+👨‍💻+🧑‍💻+💻+🖥️;Learning+HTML%2C+CSS+and+Python!;)](https://git.io/typing-svg)
 
 ## Welcome to my GitHub Profile
 
@@ -19,7 +19,7 @@
 - 💞️ I’m looking to collaborate on anything that I can help with
 - 📫 How to reach me: Discord: [#1296](https://discordapp.com/users/1296)
 
-## Development Tools, Skills & Languages
+## Development Tools, Server, Host, Database, & Languages
 
 ![Skill icons](https://skillicons.dev/icons?i=vscode,git,github,linux,html,css,python)
 
