@@ -53,8 +53,4 @@ Wakatime updating soon...
 
 ![Latest Tweet](https://gtce.itsvg.in/api?username=Killercavin&theme=midnight-purple&layout=compact)
 
-### Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Killercavin&theme=github-compact)
-
 <!-- End -->
