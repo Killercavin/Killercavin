@@ -49,8 +49,4 @@ Wakatime updating soon...
 
 ```
 
-### Latest Tweet
-
-![Latest Tweet](https://gtce.itsvg.in/api?username=Killercavin&theme=midnight-purple&layout=compact)
-
 <!-- End -->
