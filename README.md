@@ -25,15 +25,15 @@
 
 ### Stats
 
-![Killercavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killercavin&show_icons=true&theme=tokyonight&hide_border=true)
+![Killercavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killercavin&show_icons=true&theme=tokyonight)
 
 ### Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Killercavin&theme=merko&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Killercavin&theme=merko)
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killercavin&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killercavin&theme=radical)
 
 ### Trophies
 
