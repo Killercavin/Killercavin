@@ -15,7 +15,7 @@
 
 - 👋 Hi, I’m @Killercavin
 - 👀 I’m an Entry-Level Developer and a Technology Enthusiast
-- 🌱 I’m currently learning HTML, CSS and Python
+- 🌱 I’m currently learning Data Analysis and Visualization using Python
 - 💞️ I’m looking to collaborate on anything that I can help with
 - 📫 How to reach me: Discord: [#1296](https://discordapp.com/users/1296)
 
