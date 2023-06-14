@@ -41,12 +41,6 @@
 
 ### Wakatime Stats
 
-<!-- ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Killercavin) -->
-
-```text
-No Activity tracked recently...
-Wakatime updating soon...
-
-```
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Killercavin)
 
 <!-- End -->
