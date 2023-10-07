@@ -1,7 +1,6 @@
 <!-- Killercavin@CalaTech -->
-# Killercavin - CalaTech
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&color=1B961A&size=30&center=true&vCenter=true&width=900&height=50&lines=Konnichiwa+👋%2C+I'm+Killercavin!...+Welcome+to+my+Profile!;I+am+a+Tech+Enthusiast+👨‍💻+🧑‍💻+💻+🖥️;Learning+HTML%2C+CSS+and+Python!;Thank+You+For+Visiting...;)](https://git.io/typing-svg)
+# CalaTech
 
 ## Welcome to my GitHub Profile
 
@@ -21,7 +20,7 @@
 
 ### Development Tools, Server, Host, Platform, Database & Languages
 
-![Skill icons](https://skillicons.dev/icons?i=vscode,git,github,linux,html,css,python)
+![Skill icons](https://skillicons.dev/icons?i=vscode,git,github,linux,html,css,javascript,python)
 
 ### Stats
 
