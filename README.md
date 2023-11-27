@@ -40,18 +40,18 @@
 ### Development Tools, Server, Host, Platform, Database & Languages
 
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git Logo" width="40" height="40"></a>
-</a><a href="https://github.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" width="40" height="40"></a>
+</a><a href="https://github.com" target="_blank"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Logo" width="40" height="40"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code Logo" width="40" height="40"></a>
 <a href="https://www.sublimetext.com/" target="_blank"><img src="https://www.sublimetext.com/images/icon.png" alt="Sublime Text Logo" width="40" height="40"></a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="Visual Studio Logo" width="40" height="40"></a>
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="40" height="40"></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="40" height="40"></a>
 <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap Logo" width="40" height="40"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="40" height="40"></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="40" height="40"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript Logo" width="40" height="40"></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Logo" width="40" height="40"></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP Logo" width="40" height="40"></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="40" height="40"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL Logo" width="40" height="40"></a>
 
 <!-- 
 
@@ -83,7 +83,12 @@
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Killercavin)
 
-[![Cavin's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Killercavin&bg_color=c8d4ff&color=0a0a9e&line=134e9e&point=003b40&area=true&hide_border=true&theme=radical)](https://github.com/Killercavin/github-readme-activity-graph)
+[![Cavin's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Killercavin&bg_color=21232a&color=a8eeff&line=134e9e&point=003b40&area=true&hide_border=true&)](https://github.com/Killercavin/github-readme-activity-graph)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:25faaa,100:fa50e5&height=120&section=footer"/>
+
+
+
 
 
 <!-- End -->
