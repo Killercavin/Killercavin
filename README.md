@@ -14,13 +14,42 @@
 
 - 👋 Hi, I’m @Killercavin
 - 👀 I’m an Entry-Level Developer and a Technology Enthusiast
-- 🌱 I’m currently learning *...
+- 🌱 I’m currently learning *... Software Development(Engineering) @ [Jaem Technologies](https://jaemtechnologies.com/)
+
 - 💞️ I’m looking to collaborate on anything that I can help with
 - 📫 How to reach me: Discord: [#1296](https://discordapp.com/users/1296)
 
+    ``` 
+    1. Jaem Technologies: Jaem Software Engineering Academy Programme
+    
+        📌️ First Trimester:                
+                        📌️ First cohort study November 2023
+
+
+    2. freeCodeCamp - Full Stack Development Certification
+            Courses:
+                📌️ (New) Foundational C# with Microsoft Certification (freeCodeCamp & Microsoft professional certification) ---> In Progress...
+                📌️ JavaScript Algorithm and Data Structures certification ---> In Progress...
+                📌️ Data Analysis with Python Certification ---> In Progress...
+                📌️ Scientific Computing with Python Certification  ===> Completed.
+                📌️ Responsive Web Design certification ===> Completed.
+    
+    3. Microsoft Learn:
+                📌️ (New) Foundational C# with Microsoft Certification (freeCodeCamp & Microsoft professional certification) ---> In Progress... (see in freeCodeCamp above)
+
 ### Development Tools, Server, Host, Platform, Database & Languages
 
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git Logo" width="40" height="40"></a></a><a href="https://github.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" width="40" height="40"></a><a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code Logo" width="40" height="40"></a><a href="https://www.sublimetext.com/" target="_blank"><img src="https://www.sublimetext.com/images/icon.png" alt="Sublime Text Logo" width="40" height="40"></a><a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="Visual Studio Logo" width="40" height="40"></a><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="40" height="40"></a><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="40" height="40"></a><a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap Logo" width="40" height="40"></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="40" height="40"></a><a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="40" height="40"></a><a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP Logo" width="40" height="40"></a><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="40" height="40"></a>
+
+<!-- 
+
+
+<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" width="40" height="40"></a><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB Logo" width="40" height="40"></a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite Logo" width="40" height="40"></a><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo" width="40" height="40"></a><a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Logo" width="40" height="40"></a><a href="https://www.apple.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="MacOS Logo" width="40" height="40"></a><a href="https://www.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Logo" width="40" height="40"></a>
+
 ![Skill icons](https://skillicons.dev/icons?i=vscode,git,github,linux,html,css,javascript,python)
+ 
+ 
+ -->
 
 ### Stats
 
