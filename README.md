@@ -83,7 +83,7 @@
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Killercavin)
 
-[![Cavin's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Killercavin&bg_color=c8d4ff&color=0a0a9e&line=134e9e&point=003b40&area=true&hide_border=true&theme=tokyonight)](https://github.com/Killercavin/github-readme-activity-graph)
+[![Cavin's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Killercavin&bg_color=c8d4ff&color=0a0a9e&line=134e9e&point=003b40&area=true&hide_border=true&theme=radical)](https://github.com/Killercavin/github-readme-activity-graph)
 
 
 <!-- End -->
