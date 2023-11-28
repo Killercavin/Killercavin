@@ -40,14 +40,14 @@
 ### Development Tools, Server, Host, Platform, Database & Languages
 
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git Logo" width="40" height="40"></a>
-</a><a href="https://github.com" target="_blank"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Logo" width="40" height="40"></a>
+</a><a href="https://github.com" target="_blank"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Logo" width="50" height="50"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code Logo" width="40" height="40"></a>
 <a href="https://www.sublimetext.com/" target="_blank"><img src="https://www.sublimetext.com/images/icon.png" alt="Sublime Text Logo" width="40" height="40"></a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="Visual Studio Logo" width="40" height="40"></a>
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="40" height="40"></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="40" height="40"></a>
 <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap Logo" width="40" height="40"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript Logo" width="40" height="40"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript Logo" width="50" height="50"></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Logo" width="40" height="40"></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP Logo" width="40" height="40"></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="40" height="40"/></a>
