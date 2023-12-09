@@ -63,6 +63,10 @@
  
  -->
 
+ ###  Readme Card
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Killercavin&repo=Killercavin&theme=gotham)
+
 ### Stats
 
 ![Killercavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killercavin&show_icons=true&theme=tokyonight)
@@ -73,21 +77,32 @@
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killercavin&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killercavin&theme=radical&limit=15)
 
 ### Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Killercavin&&row=1&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Killercavin&row=1&column=10)
+
+### Top Contributed Repositories
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Killercavin&limit=15&theme=dark&combine_all_yearly_contributions=true&count_private=true&show_icons=true&include_all_commits=true&custom_title=Top%20Contributed%20Repository)
 
 ### Wakatime Stats
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Killercavin)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Killercavin&hide_border=true&layout=compact&hide_title=false&langs_count=15&range=all_time&theme=react-dark)
+
+### GitHub Activity Graph
 
 [![Cavin's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Killercavin&bg_color=c8d4ff&color=0a0a9e&line=134e9e&point=003b40&area=true&hide_border=true)](https://github.com/Killercavin/github-readme-activity-graph)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:25faaa,100:fa50e5&height=120&section=footer"/>
+### Visitor Count
+
+[![Visitor Count](https://profile-counter.glitch.me/Killercavin/count.svg)](https://gist.github.com/Killercavin)
 
 
+![Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=0:25faaa,100:fa50e5&height=120&section=footer)
+
+***Thanks for visiting my profile, and You welcomed back anytime...***
 
 
 
