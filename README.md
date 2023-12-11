@@ -8,6 +8,7 @@
 ![Followers](https://img.shields.io/github/followers/Killercavin?label=Follow&style=social)
 ![Stars](https://img.shields.io/github/stars/Killercavin?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=Killercavin&color=blue)
+[![wakatime](https://wakatime.com/badge/user/0a629113-4a07-4f00-baa2-ec03ce250a02.svg)](https://wakatime.com/@Killercavin)
 [![Discord](https://img.shields.io/discord/950481728068263976?color=blueviolet&logo=Discord&style=plastic)](https://discord.gg/GnrKuFSaUC)
 
 ### About Me
@@ -65,31 +66,31 @@
 
  ###  Readme Card
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Killercavin&repo=Killercavin&theme=gotham)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Killercavin&repo=Killercavin&theme=chartreuse-dark)
 
 ### Stats
 
-![Killercavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killercavin&show_icons=true&theme=tokyonight)
+![Killercavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killercavin&show_icons=true&theme=algolia)
 
 ### Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Killercavin&theme=merko)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Killercavin&theme=outrun)
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killercavin&theme=radical&limit=15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killercavin&theme=yeblu&limit=15)
 
 ### Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Killercavin&&row=1&column=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Killercavin&row=1&column=10)
 
 ### Top Contributed Repositories
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Killercavin&limit=15&theme=dark&combine_all_yearly_contributions=true&count_private=true&show_icons=true&include_all_commits=true&custom_title=Top%20Contributed%20Repository)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Killercavin&limit=15&theme=algolia&combine_all_yearly_contributions=true&count_private=true&show_icons=true&include_all_commits=true&custom_title=Top%20Contributed%20Repository)
 
 ### Wakatime Stats
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Killercavin&hide_border=true&layout=compact&hide_title=false&langs_count=15&range=all_time&theme=react-dark)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Killercavin&hide_border=true&layout=compact&hide_title=false&langs_count=15&range=all_time&theme=blue-green)
 
 ### GitHub Activity Graph
 
