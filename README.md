@@ -59,15 +59,15 @@
 ### GitHub Streak Stats && Stats
 
 <p style="display: flex; justify-content: space-between;" float="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Killercavin&theme=outrun" alt="GitHub Streak" style="width: 475px; height: auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Killercavin&show_icons=true&theme=algolia" alt="GitHub Stats" style="width: 450px; height: auto;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Killercavin&theme=outrun" alt="GitHub Streak" style="width: 48%; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Killercavin&show_icons=true&theme=algolia" alt="GitHub Stats" style="width: 45%; height: auto;">
 </p>
 
 ### Top Languages && Wakatime Stats
 
 <p style="display: flex; justify-content: space-between;" float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killercavin&theme=yeblu&limit=15&layout=compact" alt="Top Langs" style="width: 325px; height: auto;"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Killercavin&hide_border=true&layout=compact&hide_title=false&langs_count=15&range=all_time&theme=blue-green" alt="Wakatime Stats" style="width: 450px; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killercavin&theme=yeblu&limit=15&layout=compact" alt="Top Langs" style="width: 32%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Killercavin&hide_border=true&layout=compact&hide_title=false&langs_count=15&range=all_time&theme=blue-green" alt="Wakatime Stats" style="width: 45%; height: auto;"/>
 
 ### Trophies
 
