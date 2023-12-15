@@ -54,43 +54,24 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL Logo" width="40" height="40"></a>
 
-<!-- 
+<!-- <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" width="40" height="40"></a><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB Logo" width="40" height="40"></a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite Logo" width="40" height="40"></a><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo" width="40" height="40"></a><a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Logo" width="40" height="40"></a><a href="https://www.apple.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="MacOS Logo" width="40" height="40"></a><a href="https://www.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Logo" width="40" height="40"></a> -->
 
+### GitHub Streak Stats && Stats
 
-<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" width="40" height="40"></a><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB Logo" width="40" height="40"></a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite Logo" width="40" height="40"></a><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo" width="40" height="40"></a><a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Logo" width="40" height="40"></a><a href="https://www.apple.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="MacOS Logo" width="40" height="40"></a><a href="https://www.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Logo" width="40" height="40"></a>
+<p style="display: flex; justify-content: space-between;" float="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Killercavin&theme=outrun" alt="GitHub Streak" style="width: 475px; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Killercavin&show_icons=true&theme=algolia" alt="GitHub Stats" style="width: 450px; height: auto;">
+</p>
 
-![Skill icons](https://skillicons.dev/icons?i=vscode,git,github,linux,html,css,javascript,python)
- 
- 
- -->
+### Top Languages && Wakatime Stats
 
- ###  Readme Card
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Killercavin&repo=Killercavin&theme=chartreuse-dark)
-
-### Stats
-
-![Killercavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killercavin&show_icons=true&theme=algolia)
-
-### Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Killercavin&theme=outrun)
-
-### Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killercavin&theme=yeblu&limit=15)
+<p style="display: flex; justify-content: space-between;" float="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killercavin&theme=yeblu&limit=15&layout=compact" alt="Top Langs" style="width: 325px; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Killercavin&hide_border=true&layout=compact&hide_title=false&langs_count=15&range=all_time&theme=blue-green" alt="Wakatime Stats" style="width: 450px; height: auto;"/>
 
 ### Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Killercavin&row=1&column=10)
-
-### Top Contributed Repositories
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Killercavin&limit=15&theme=algolia&combine_all_yearly_contributions=true&count_private=true&show_icons=true&include_all_commits=true&custom_title=Top%20Contributed%20Repository)
-
-### Wakatime Stats
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Killercavin&hide_border=true&layout=compact&hide_title=false&langs_count=15&range=all_time&theme=blue-green)
 
 ### GitHub Activity Graph
 
@@ -103,8 +84,12 @@
 
 ![Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=0:25faaa,100:fa50e5&height=120&section=footer)
 
-***Thanks for visiting my profile, and You welcomed back anytime...***
+***Thanks for visiting my profile, and feel free to collaborate with Me. Welcome yourself back anytime...***
 
 
 
 <!-- End -->
+
+<!-- Killercavin@CalaTech -->
+
+
