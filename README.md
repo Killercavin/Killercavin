@@ -5,9 +5,9 @@
 ## Welcome to my GitHub Profile
 
 [![Cavin](https://img.shields.io/badge/Cavin-<COLOR>.svg)](https://shields.io/)
-![Followers](https://img.shields.io/github/followers/Killercavin?label=Follow&style=social)
-![Stars](https://img.shields.io/github/stars/Killercavin?affiliations=OWNER%2CCOLLABORATOR&style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=Killercavin&color=blue)
+![Followers](https://img.shields.io/github/followers/Killercavin?label=Follow&style=social&style=plastic)
+![Stars](https://img.shields.io/github/stars/Killercavin?affiliations=OWNER%2CCOLLABORATOR&style=social&style=plastic&color=gold)
+![Profile Views](https://komarev.com/ghpvc/?username=Killercavin&color=green&style=plastic)
 [![wakatime](https://wakatime.com/badge/user/0a629113-4a07-4f00-baa2-ec03ce250a02.svg?style=plastic)](https://wakatime.com/@0a629113-4a07-4f00-baa2-ec03ce250a02)
 [![Discord Server](https://img.shields.io/discord/950481728068263976?color=blueviolet&logo=Discord&style=plastic)](https://discord.gg/GnrKuFSaUC)
 
