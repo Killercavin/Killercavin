@@ -46,8 +46,9 @@
 ## Tools && Technologies
 
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git Logo" width="40" height="40"></a>
-</a><a href="https://github.com" target="_blank"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Logo" width="50" height="50"></a>
-</a><a href="https://gitlab.com" target="_blank"><img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="Gitlab Logo" width="50" height="50"></a>
+</a><a href="https://github.com/" target="_blank"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Logo" width="40" height="40"></a>
+</a><a href="https://gitlab.com" target="_blank"><img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="Gitlab Logo" width="40" height="40"></a>
+</a><a href="https://postman.com/" target="_blank"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="Postman Logo" width="40" height="40"></a>
 
 ## IDEs && Editors
 
