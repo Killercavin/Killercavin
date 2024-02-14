@@ -19,24 +19,6 @@
 - 💞️ I’m looking to collaborate on anything that I can help with
 - 📫 How to reach me on [Discord](https://discordapp.com/users/1296)
 
-    ``` 
-    1. Jaem Technologies: Jaem Software Engineering Academy Programme
-    
-        📌️ First Trimester:                
-                        📌️ First cohort study November 2023
-
-
-    2. freeCodeCamp - Full Stack Development Certification
-            Courses:
-                📌️ (New) Foundational C# with Microsoft Certification (freeCodeCamp & Microsoft professional certification) ---> In Progress...
-                📌️ JavaScript Algorithm and Data Structures certification ---> In Progress...
-                📌️ Data Analysis with Python Certification ---> In Progress...
-                📌️ Scientific Computing with Python Certification  ===> Completed.
-                📌️ Responsive Web Design certification ===> Completed.
-    
-    3. Microsoft Learn:
-                📌️ (New) Foundational C# with Microsoft Certification (freeCodeCamp & Microsoft professional certification) ---> In Progress... (see in freeCodeCamp above)
-
 ## Platforms
 
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Logo" width="40" height="40"></a>
