@@ -51,7 +51,7 @@
 ## Frameworks && Libraries
 
 <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap Logo" width="40" height="40"></a>
-<a href="https://sass-lang.com/)" target="_blank"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Saas Logo" width="40" height="40"></a>
+<a href="https://sass-lang.com/" target="_blank"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Saas Logo" width="40" height="40"></a>
 <a href="https://jquery.com/" target="_blank"><img src="https://api.jquery.com/wp-content/themes/api.jquery.com/i/favicon.ico" alt="jQuery Logo" width="40" height="40"></a>
 <a href="https://www.laravel.com/" target="_blank"><img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Logo" width="40" height="40"></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django Logo" width="40" height="40"></a>
