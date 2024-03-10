@@ -80,7 +80,7 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Killercavin&row=1&column=10)
 
 ## GitHub Details
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Killercavin&theme=tokyonight" alt="Github Details" style="width: 45%; height: auto;">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Killercavin&theme=tokyonight" alt="Github Details" style="width: 75%; height: auto;">
 
 ![Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=0:25faaa,100:fa50e5&height=120&section=footer)
 
