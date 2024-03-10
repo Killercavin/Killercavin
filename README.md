@@ -67,7 +67,7 @@
 <p style="display: flex; justify-content: space-between;" float="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Killercavin&theme=outrun" alt="GitHub Streak" style="width: 48%; height: auto;">
   <img src="https://github-readme-stats.vercel.app/api?username=Killercavin&show_icons=true&theme=algolia" alt="GitHub Stats" style="width: 45%; height: auto;">
-  ![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Killercavin&theme=algolia)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Killercavin&theme=tokyonight" alt="Github Details" style="width: 45%; height: auto;">
 </p>
 
 ## Top Languages && Wakatime Stats
