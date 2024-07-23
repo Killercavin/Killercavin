@@ -15,16 +15,20 @@
 - 📫 How to reach me on [Discord](https://discordapp.com/users/Killercavin)
 
 ## Skills & Tools
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git Logo" width="40" height="auto"></a>
-</a><a href="https://postman.com/" target="_blank"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="Postman Logo" width="40" height="40"></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code Logo" width="40" height="auto"></a>
-<a href="https://www.sublimetext.com/" target="_blank"><img src="https://www.sublimetext.com/images/icon.png" alt="Sublime Text Logo" width="40" height="auto"></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="40" height="auto"></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="40" height="auto"></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Logo" width="40" height="auto"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="40" height="auto"></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="40" height="auto"></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL Logo" width="40" height="ato"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git Logo" width="45" height="auto"></a>
+<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="Git Logo" width="45" height="auto"></a>
+<a href="https://gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" alt="Git Logo" width="45" height="auto"></a>
+<a href="https://bitbucket.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bitbucket" alt="Git Logo" width="45" height="auto"></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code Logo" width="45" height="auto"></a>
+<a href="https://sublimetext.com/" target="_blank"><img src="https://skillicons.dev/icons?i=sublime" alt="Sublime Text Logo" width="45" height="auto"></a>
+<a href="https://w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5 Logo" width="45" height="auto"></a>
+<a href="https://w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3 Logo" width="45" height="auto"></a>
+<a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap Logo" width="45" height="auto"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript Logo" width="45" height="auto"></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React Logo" width="45" height="auto"></a>
+</a><a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS Logo" width="45" height="40"></a>
+</a><a href="https://postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman Logo" width="40" height="45"></a>
+<a href="https://mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL Logo" width="45" height="ato"></a>
 
 ## GitHub Streak, Stats & Top Lnguages
 <p style="display: flex; justify-content: space-between;" float="left">
