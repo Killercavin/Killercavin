@@ -25,6 +25,7 @@
 <a href="https://w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3 Logo" width="45" height="auto"></a>
 <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap Logo" width="45" height="auto"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript Logo" width="45" height="auto"></a>
+<a href="https://python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python Logo" width="45" height="auto"></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React Logo" width="45" height="auto"></a>
 </a><a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS Logo" width="45" height="40"></a>
 </a><a href="https://postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman Logo" width="40" height="45"></a>
