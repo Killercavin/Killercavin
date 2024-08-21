@@ -24,13 +24,23 @@
 <a href="https://w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5 Logo" width="45" height="auto"></a>
 <a href="https://w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3 Logo" width="45" height="auto"></a>
 <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap Logo" width="45" height="auto"></a>
+<a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwindcss" alt="TailwindCSS Logo" width="45" height="auto"></a>
+<a href="https://mui.com" target="_blank"><img src="https://skillicons.dev/icons?i=mui" alt="MUI Logo" width="45" height="auto"></a>
+<a href="https://flowbite.com" target="_blank"><img src="https://flowbite.com/images/logo.svg" alt="Flowbite Logo" width="45" height="auto"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript Logo" width="45" height="auto"></a>
 <a href="https://typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript Logo" width="45" height="auto"></a>
 <a href="https://python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python Logo" width="45" height="auto"></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React Logo" width="45" height="auto"></a>
-</a><a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS Logo" width="45" height="40"></a>
-</a><a href="https://postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman Logo" width="40" height="45"></a>
-<a href="https://mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL Logo" width="45" height="ato"></a>
+<a href="https://dart.dev" target="_blank"><img src="https://skillicons.dev/icons?i=dart" alt="Dart Logo" width="45" height="auto">
+</a>
+<a href="https://reactjs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React Logo" width="45" height="auto"></a>
+<a href="https://vitejs.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vite" alt="Vite Logo" width="45" height="auto"></a>
+<a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="ExpressJS Logo" width="45" height="auto"></a>
+<a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=next" alt="NextJS Logo" width="45" height="auto"></a>
+</a><a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS Logo" width="45" height="auto"></a>
+</a><a href="https://postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman Logo" width="45" height="auto"></a>
+<a href="https://mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB Logo" width="45" height="auto"></a>
+<a href="https://postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" alt="Postgresql Logo" width="45" height="auto"></a>
+<a href="https://mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL Logo" width="45" height="auto"></a>
 
 ## GitHub Streak, Stats & Top Lnguages
 <p style="display: flex; justify-content: space-between;" float="left">
