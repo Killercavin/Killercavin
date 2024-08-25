@@ -30,13 +30,14 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript Logo" width="45" height="auto"></a>
 <a href="https://typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript Logo" width="45" height="auto"></a>
 <a href="https://python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python Logo" width="45" height="auto"></a>
-<a href="https://dart.dev" target="_blank"><img src="https://skillicons.dev/icons?i=dart" alt="Dart Logo" width="45" height="auto">
-</a>
+<a href="https://dart.dev" target="_blank"><img src="https://skillicons.dev/icons?i=dart" alt="Dart Logo" width="45" height="auto"></a>
+</a><a href="https://php.net" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP Logo" width="45" height="auto"></a>
 <a href="https://reactjs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React Logo" width="45" height="auto"></a>
 <a href="https://vitejs.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vite" alt="Vite Logo" width="45" height="auto"></a>
 <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="ExpressJS Logo" width="45" height="auto"></a>
 <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=next" alt="NextJS Logo" width="45" height="auto"></a>
 </a><a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS Logo" width="45" height="auto"></a>
+</a><a href="https://laravel.com" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel Logo" width="45" height="auto"></a>
 </a><a href="https://djangoproject.com" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="Django Logo" width="45" height="auto"></a>
 </a><a href="https://postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman Logo" width="45" height="auto"></a>
 <a href="https://mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB Logo" width="45" height="auto"></a>
