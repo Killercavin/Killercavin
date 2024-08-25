@@ -37,6 +37,7 @@
 <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="ExpressJS Logo" width="45" height="auto"></a>
 <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=next" alt="NextJS Logo" width="45" height="auto"></a>
 </a><a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS Logo" width="45" height="auto"></a>
+</a><a href="https://djangoproject.com" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="Django Logo" width="45" height="auto"></a>
 </a><a href="https://postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman Logo" width="45" height="auto"></a>
 <a href="https://mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB Logo" width="45" height="auto"></a>
 <a href="https://postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" alt="Postgresql Logo" width="45" height="auto"></a>
