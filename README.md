@@ -10,7 +10,7 @@
 [![Discord Server](https://img.shields.io/discord/950481728068263976?color=blueviolet&logo=Discord&style=plastic)](https://discord.gg/GnrKuFSaUC)
 - 👋 Hi, I’m @Killercavin <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="25"></h3>
 - 👀 I’m an Entry-Level Developer Who Loves Computers and Technology
-- 🌱 I’m currently learning *... Software Development(Engineering) [Power Learn Project Academy](https://plpacademy.powerlearnproject.org/)
+- 🌱 I’m currently learning *... Software Development(Engineering) [Power Learn Project Academy](https://academy.powerlearnprojectafrica.org/)
 - 💞️ I’m looking to collaborate on anything that I can help with
 - 📫 How to reach me on [Discord](https://discordapp.com/users/Killercavin)
 
