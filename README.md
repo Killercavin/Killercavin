@@ -10,37 +10,24 @@
 [![Discord Server](https://img.shields.io/discord/950481728068263976?color=blueviolet&logo=Discord&style=plastic)](https://discord.gg/GnrKuFSaUC)
 - 👋 Hi, I’m @Killercavin <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="25"></h3>
 - 👀 I’m an Entry-Level Developer Who Loves Computers and Technology
-- 🌱 I’m currently learning *... Software Development(Engineering) [Power Learn Project Academy](https://academy.powerlearnprojectafrica.org/)
+- 🌱 I’m currently learning *... Software Development(Engineering) [Power Learn Project Africa Academy](https://academy.powerlearnprojectafrica.org/)
 - 💞️ I’m looking to collaborate on anything that I can help with
 - 📫 How to reach me on [Discord](https://discordapp.com/users/Killercavin)
 
 ## Skills & Tools
-<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git Logo" width="45" height="auto"></a>
-<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="Git Logo" width="45" height="auto"></a>
-<a href="https://gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" alt="Git Logo" width="45" height="auto"></a>
-<a href="https://bitbucket.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bitbucket" alt="Git Logo" width="45" height="auto"></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code Logo" width="45" height="auto"></a>
-<a href="https://sublimetext.com/" target="_blank"><img src="https://skillicons.dev/icons?i=sublime" alt="Sublime Text Logo" width="45" height="auto"></a>
-<a href="https://w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5 Logo" width="45" height="auto"></a>
-<a href="https://w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3 Logo" width="45" height="auto"></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap Logo" width="45" height="auto"></a>
-<a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwindcss" alt="TailwindCSS Logo" width="45" height="auto"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript Logo" width="45" height="auto"></a>
-<a href="https://typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript Logo" width="45" height="auto"></a>
-<a href="https://python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python Logo" width="45" height="auto"></a>
-<a href="https://dart.dev" target="_blank"><img src="https://skillicons.dev/icons?i=dart" alt="Dart Logo" width="45" height="auto"></a>
-</a><a href="https://php.net" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP Logo" width="45" height="auto"></a>
-<a href="https://reactjs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React Logo" width="45" height="auto"></a>
-<a href="https://vitejs.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vite" alt="Vite Logo" width="45" height="auto"></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="ExpressJS Logo" width="45" height="auto"></a>
-<a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=next" alt="NextJS Logo" width="45" height="auto"></a>
-</a><a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS Logo" width="45" height="auto"></a>
-</a><a href="https://laravel.com" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel Logo" width="45" height="auto"></a>
-</a><a href="https://djangoproject.com" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="Django Logo" width="45" height="auto"></a>
-</a><a href="https://postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman Logo" width="45" height="auto"></a>
-<a href="https://mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB Logo" width="45" height="auto"></a>
-<a href="https://postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" alt="Postgresql Logo" width="45" height="auto"></a>
-<a href="https://mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL Logo" width="45" height="auto"></a>
+<div align="center">
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="45" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" /></a> 
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="45" /></a> 
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="45" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="45" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="45" /></a> 
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="45" /></a> 
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="45" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="45" /></a> 
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="45" /></a>    
+</div>
 
 ## GitHub Streak, Stats & Top Lnguages
 <p style="display: flex; justify-content: space-between;" float="left">
