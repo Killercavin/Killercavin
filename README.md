@@ -15,7 +15,7 @@
 - 📫 How to reach me on [Discord](https://discordapp.com/users/Killercavin)
 
 ## Languages, Skills & Tools
-<div style="display: flex">
+<div style="display: flex;">
   <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
   <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="padding-right:10px;" />
   <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
@@ -24,15 +24,16 @@
   <img align="left" alt="Postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
   <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-</div>
+ </div>
 
-
-## GitHub Streak, Stats & Top Lnguages
-<div style="display: flex; justify-content: space-between;" float="left">
+ <br>
+ 
+ ## GitHub Streak, Stats & Top Languages
+ <div style="display: flex; justify-content: space-between;" float="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Killercavin&theme=outrun" alt="GitHub Streak" style="width: 35%; height: auto;">
   <img src="https://github-readme-stats.vercel.app/api?username=Killercavin&show_icons=true&theme=algolia" alt="GitHub Stats" style="width: 33%; height: auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killercavin&theme=yeblu&limit=15&layout=compact" alt="Top Langs" style="width: 25%; height: auto;"/>
-</div>
+ </div>
 
 <!-- ## Wakatime Stats & GitHub Details
 <div style="display: flex; justify-content: space-between;" float="left">
