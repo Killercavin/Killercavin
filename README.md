@@ -25,22 +25,15 @@
   <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
  </div>
-
  <br>
  
  ## GitHub Streak, Stats & Top Languages
- <div style="display: flex; justify-content: space-between;" float="left">
+ <div style="display: flex;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Killercavin&theme=outrun" alt="GitHub Streak" style="width: 35%; height: auto;">
   <img src="https://github-readme-stats.vercel.app/api?username=Killercavin&show_icons=true&theme=algolia" alt="GitHub Stats" style="width: 33%; height: auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killercavin&theme=yeblu&limit=15&layout=compact" alt="Top Langs" style="width: 25%; height: auto;"/>
  </div>
-
-<!-- ## Wakatime Stats & GitHub Details
-<div style="display: flex; justify-content: space-between;" float="left">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Killercavin&hide_border=true&layout=compact&hide_title=false&langs_count=15&range=all_time&theme=blue-green" alt="Wakatime Stats" style="width: 45%; height: auto;"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Killercavin&theme=tokyonight" alt="Github Details" style="width: 45%; height: auto;">
-</div> -->
-
+ 
 ## GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Killercavin&row=1&column=10)
 
