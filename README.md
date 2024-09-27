@@ -14,34 +14,26 @@
 - 💞️ I’m looking to collaborate on anything that I can help with
 - 📫 How to reach me on [Discord](https://discordapp.com/users/Killercavin)
 
-## Skills & Tools
-<div align="center">
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="45" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" /></a> 
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="45" /></a> 
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="45" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="45" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="45" /></a> 
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="45" /></a> 
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="45" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="45" /></a> 
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="45" /></a>    
+## Languages, Skills & Tools
+<div style="display: flex;">
+  <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="padding-right:10px;" />
+  <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+ </div>
+ <br>
+ 
+## GitHub Streak, Stats & Top Languages
+<div style="display: flex;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Killercavin&theme=outrun" alt="GitHub Streak" style="width: 35%; height: auto; padding-right:10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Killercavin&show_icons=true&theme=algolia" alt="GitHub Stats" style="width: 33%; height: auto; padding-right:10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killercavin&theme=yeblu&limit=15&layout=compact" alt="Top Langs" style="width: 25%; height: auto; padding-right:10px;"/>
 </div>
-
-## GitHub Streak, Stats & Top Lnguages
-<p style="display: flex; justify-content: space-between;" float="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Killercavin&theme=outrun" alt="GitHub Streak" style="width: 35%; height: auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Killercavin&show_icons=true&theme=algolia" alt="GitHub Stats" style="width: 33%; height: auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killercavin&theme=yeblu&limit=15&layout=compact" alt="Top Langs" style="width: 25%; height: auto;"/>
-</p>
-
-## Wakatime Stats & GitHub Details
-<p style="display: flex; justify-content: space-between;" float="left">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Killercavin&hide_border=true&layout=compact&hide_title=false&langs_count=15&range=all_time&theme=blue-green" alt="Wakatime Stats" style="width: 45%; height: auto;"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Killercavin&theme=tokyonight" alt="Github Details" style="width: 45%; height: auto;">
-</p>
-
+ 
 ## GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Killercavin&row=1&column=10)
 
