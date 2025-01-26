@@ -8,24 +8,17 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Killercavin&color=green&style=plastic)
 [![wakatime](https://wakatime.com/badge/user/0a629113-4a07-4f00-baa2-ec03ce250a02.svg?style=plastic)](https://wakatime.com/@0a629113-4a07-4f00-baa2-ec03ce250a02)
 [![Discord Server](https://img.shields.io/discord/950481728068263976?color=blueviolet&logo=Discord&style=plastic)](https://discord.gg/GnrKuFSaUC)
-- 👋 Hi, I’m @Killercavin <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="25"></h3>
-- 👀 I’m an Entry-Level Developer Who Loves Computers and Technology
-- 🌱 I’m currently learning *... Software Development(Engineering) [Power Learn Project Africa Academy](https://academy.powerlearnprojectafrica.org/)
+- 👋 Hi, I’m [Cavin](https://cavinlarry.vercel.app) <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="25"></h3>
+- 👀 I’m an entry-level developer who loves taking to computers about technologies
+- 🌱 I’m currently learning Python & Kotlin
 - 💞️ I’m looking to collaborate on anything that I can help with
 - 📫 How to reach me on [Discord](https://discordapp.com/users/Killercavin)
 
 ## Languages, Skills & Tools
 <div style="display: flex;">
-  <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="padding-right:10px;" />
-  <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="Postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
- </div>
- <br>
+  <a href="https://python.org"><img alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://kotlinlang.org"><img alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" /></a>
+</div>
  
 ## GitHub Streak, Stats & Top Languages
 <div style="display: flex;">
