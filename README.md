@@ -19,21 +19,21 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
-```js
-class SoftwareEngineer {
-    constructor() {
-        this.name = "Cavin";
-        this.role = "Software Engineer";
-        this.language_spoken = ["en", "sw"];
-    }
+```kt
+class SoftwareEngineer{
+    val name: String = "Cavin"
+    val role: String = "Software Developer"
+    val languageSpoken: List<String> = mutableListOf("en", "sw", "Kotlin")
 
-    const sayHi = () => {
-      console.log("Thanks for stopping by. I hope you find some of my work interesting.");
+    fun sayHi(): String {
+        return "Thanks for stopping by. I'm $name a $role speaking $languageSpoken I hope you find some of my work interesting."
     }
 }
 
-const me = new SoftwareEngineer();
-me.sayHi();
+fun main(){
+    val me = SoftwareEngineer()
+    println(me.sayHi())
+}
 ```
 
 </div>
