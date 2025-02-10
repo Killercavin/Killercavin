@@ -23,10 +23,10 @@
 class SoftwareEngineer{
     val name: String = "Cavin"
     val role: String = "Software Developer"
-    val languageSpoken: List<String> = mutableListOf("en", "sw", "Kotlin")
+    val languagesSpoken: List<String> = mutableListOf("en", "sw", "Kotlin")
 
     fun sayHi(): String {
-        return "Thanks for stopping by. I'm $name a $role speaking $languageSpoken I hope you find some of my work interesting."
+        return "Thanks for stopping by. I'm $name a $role speaking $languageSpoken."
     }
 }
 
