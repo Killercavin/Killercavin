@@ -10,8 +10,8 @@
 [![Wakatime](https://wakatime.com/badge/user/0a629113-4a07-4f00-baa2-ec03ce250a02.svg?style=plastic)](https://wakatime.com/@0a629113-4a07-4f00-baa2-ec03ce250a02)
 [![Discord Server](https://img.shields.io/discord/950481728068263976?color=blueviolet&logo=Discord&style=plastic)](https://discord.gg/GnrKuFSaUC)
 - 👋 Hi, I’m [Cavin](https://cavinlarry.vercel.app) <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="25"></h3>
-- 👀 I’m an entry-level developer who loves taking to computers about technologies
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m a developer who loves taking to computers about technologies
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything that I can help with
 - 📫 How to reach me on [Discord](https://discordapp.com/users/Killercavin)
 
@@ -19,21 +19,18 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
-```kt
-class SoftwareEngineer{
-    val name: String = "Cavin"
-    val role: String = "Software Developer"
-    val languageSpoken: List<String> = mutableListOf("en", "sw")
+```py
+class SoftwareEngineer:
+    def __init__(self, name="Cavin", role="Software Developer", languages_spoken=None):
+        self.name = name
+        self.role = role
+        self.languages_spoken = languages_spoken if languages_spoken else ["en", "sw"]
 
-    fun sayHi(): String {
-        return "Thanks for stopping by. I'm $name a $role speaking $languageSpoken."
-    }
-}
+    def say_hi(self):
+        return f"I hope you had a great time. Thanks for stopping by."
 
-fun main(){
-    val me = SoftwareEngineer()
-    println(me.sayHi())
-}
+me = SoftwareEngineer()
+print(me.say_hi())
 ```
 
 </div>
@@ -45,7 +42,6 @@ fun main(){
   <img alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="padding-right:10px;" />
   <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
   <img alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-  <img alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />
 </div>
  
 ## GitHub Streak, Stats & Top Languages
