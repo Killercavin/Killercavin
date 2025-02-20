@@ -19,18 +19,21 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
-```py
-class SoftwareEngineer:
-    def __init__(self, name="Cavin", role="Software Developer", languages_spoken=None):
-        self.name = name
-        self.role = role
-        self.languages_spoken = languages_spoken if languages_spoken else ["en", "sw"]
+```kt
+class SoftwareEngineer {
+    val name: String = "Cavin"
+    val role: String = "Software Developer"
+    val languageSpoken: List<String> = listOf("en", "sw")
 
-    def say_hi(self):
-        return f"I hope you had a great time. Thanks for stopping by."
+    fun sayHi(): String {
+        return "I hope you had a great time. Thanks for stopping by."
+    }
+}
 
-me = SoftwareEngineer()
-print(me.say_hi())
+fun main() {
+    val me = SoftwareEngineer()
+    println(me.sayHi())
+}
 ```
 
 </div>
