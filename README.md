@@ -50,10 +50,9 @@ fun main() {
  
 ## GitHub Streak, Stats & Top Languages
 <div style="display: flex;">
-  <!-- <img src="https://streak-stats.demolab.com/?user=Killercavin" alt="GitHub Streak" style="width: 35%; height: auto; padding-right:10px;"> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Killercavin&theme=outrun" alt="GitHub Streak" style="width: 35%; height: auto; padding-right:10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Killercavin&show_icons=true&theme=algolia" alt="GitHub Stats" style="width: 33%; height: auto; padding-right:10px;">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killercavin&theme=yeblu&limit=15&layout=compact" alt="Top Langs" style="width: 25%; height: auto; padding-right:10px;"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Killercavin&show_icons=true&locale=en&theme=yeblu&limit=15&layout=compact" alt="Top Langs" style="width: 25%; height: auto; padding-right:10px;"/>
 </div>
  
 ## GitHub Trophies
