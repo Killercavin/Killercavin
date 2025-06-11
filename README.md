@@ -10,7 +10,7 @@
 [![Wakatime](https://wakatime.com/badge/user/0a629113-4a07-4f00-baa2-ec03ce250a02.svg?style=plastic)](https://wakatime.com/@0a629113-4a07-4f00-baa2-ec03ce250a02)
 [![Discord Server](https://img.shields.io/discord/950481728068263976?color=blueviolet&logo=Discord&style=plastic)](https://discord.gg/GnrKuFSaUC)
 - 👋 Hi, I’m [Cavin](https://cavinlarry.vercel.app) <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="25"></h3>
-- 👀 I’m a developer who loves taking to computers about technologies
+- 👀 I’m a developer who loves listening to what humans and machines have say to me
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on anything that I can help with
 - 📫 How to reach me on [Discord](https://discordapp.com/users/Killercavin)
