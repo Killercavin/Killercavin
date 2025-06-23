@@ -20,19 +20,22 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 ```kt
-class SoftwareEngineer {
-    val name: String = "Cavin"
-    val role: String = "Software Developer"
-    val languageSpoken: List<String> = listOf("en", "sw")
+class SoftwareEngineer(
+    val name: String = "Cavin",
+    val role: String = "Software Developer",
+    val languages: List<String> = listOf("JavaScript", "TypeScript", "Python", "Kotlin"),
+    val interests: List<String> = listOf("Open Source", "AI/ML", "DevOps", "Mobile Development", "Backend Development"),
+    val hobbies: List<String>  = listOf("Gaming", "Reading", "Music", "Traveling", "Coding", "Learning")
+) {
 
-    fun sayHi(): String {
-        return "I hope you had a great time. Thanks for stopping by."
+    fun introduce() {
+        println("Hi, I'm $name, a $role who loves speaking to machines using programming languages like ${languages.joinToString(", ")} building on interests like ${interests.joinToString(", ")} and enjoys ${hobbies.joinToString(", ")}.")
     }
 }
 
 fun main() {
-    val me = SoftwareEngineer()
-    println(me.sayHi())
+    val softwareEngineer = SoftwareEngineer()
+    softwareEngineer.introduce()
 }
 ```
 
