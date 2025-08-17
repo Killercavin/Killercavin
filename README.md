@@ -1,14 +1,18 @@
 <!-- Killercavin@CalaTech -->
 
 <p align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Cavin" width="150">
+    <img src="/images/bunner.png" alt="profile banner image">
+</p>
+
+<p align="center">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coder image" width="150">
 </p>
 
 <p align="center">
     <samp>
         <strong>– CAVIN –</strong>
         <br/>
-        FrontEnd Developer | Open Source Contributor | BackEnd Developer(Ktor)
+        FrontEnd Developer | Open Source Contributor | BackEnd Developer(Ktor, SpringBoot)
     </samp>
 </p>
 
@@ -77,12 +81,30 @@ fun main() {
 
 ## Languages, Skills & Tools
 <div style="display: flex;">
-  <img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-  <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-  <img alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-  <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-  <img alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-  <img alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />
+  <table>
+  <tr>
+    <th><h3 align="center">Languages</h3></th>
+    <th><h3 align="center">Libraries & Frameworks</h3></th>
+    <th><h3 align="center">Database</h3></th>
+  </tr>
+  <tr>
+    <td>
+        <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+        <img alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+        <img alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+        <img alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />
+    </td>
+    <td>
+      <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+      <img alt="Ktor" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ktor/ktor-original.svg" style="padding-right:10px;" />
+      <img alt="Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />
+    </td>
+    <td>
+        <img alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+        <img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+    </td>
+  </tr>
+</table>
 </div>
  
 ## GitHub Streak, Stats & Top Languages
